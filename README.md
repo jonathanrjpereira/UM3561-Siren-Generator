@@ -25,6 +25,7 @@ http://s.click.aliexpress.com/e/YMpokbA
 
 ## Working
 **UM3561:**
+
 The UM3561 is a low-cost, low power CMOS LSI designed for use in toy applications. Since the integrated circuit
 includes oscillating and selector circuits, a compact sound module can be constructed with only a few additional
 components. The UM3561 contains a programmed mask ROM to electronically reproduce alarm sounds.
@@ -40,6 +41,7 @@ components. The UM3561 contains a programmed mask ROM to electronically reproduc
 ![IC Truth Table](https://github.com/jonathanrjpereira/UM3561-Siren-Generator/blob/master/img/TT.png)
 
 **Circuit:**
+
 Only one of the Siren tunes can be played at a time. This is determined on the basis of the position of the SP3T Slide switch.
 The switch has three positions which will connect the common terminal with VCC, GND or NC in order to fulfill the Truth Table.
 
