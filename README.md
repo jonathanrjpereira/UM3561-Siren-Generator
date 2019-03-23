@@ -7,7 +7,7 @@ Can play either a Police Siren, Ambulance Siren or Fire Engine Siren when trigge
 | Qty | Component | Buy |
 | ------------- | ------------- | ------------- |
 | 1 | UM3561 |[AliExpress](http://s.click.aliexpress.com/e/ckC9oWJA) |
-| 1 | BC547 PNP Transistor |[AliExpress](http://s.click.aliexpress.com/e/bpL0Irsk) |
+| 1 | BC547 NPN Transistor |[AliExpress](http://s.click.aliexpress.com/e/bpL0Irsk) |
 | 1 | 220KΩ Resistor |[AliExpress](http://s.click.aliexpress.com/e/bh4eqrQs) |
 | 2 | 220Ω Resistor |[AliExpress](http://s.click.aliexpress.com/e/bh4eqrQs) |
 | 1 | 5mm LED |[AliExpress](http://s.click.aliexpress.com/e/wuFpLXS) |
