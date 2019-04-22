@@ -1,7 +1,10 @@
 # UM3561-Siren-Generator
 Can play either a Police Siren, Ambulance Siren or Fire Engine Siren when triggered.
 
-**Order PCB:**
+**Full Video:**
+[![Siren Generator](https://img.youtube.com/vi/J3Cx1Potyco/maxresdefault.jpg)](https://youtu.be/J3Cx1Potyco)
+
+**Order PCB:**  [PCBWay](https://bit.ly/2vg0xno)    
 
 ## Electronic Components
 | Qty | Component | Buy |
